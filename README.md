@@ -14,9 +14,11 @@ Power BI & Data Visualization
 Big Data Technologies
 
 🛠️ Tools & Technologies
+
 Python SQL PostgreSQL Pandas Power BI Git React Flask
 
 📌 What I'm Working On
+
 Building ETL & data pipelines
 Exploring data modeling and warehousing
 Creating analytics dashboards with Power BI
